@@ -8,7 +8,7 @@
 > If something breaks, stop and fix it before moving on.
 > Use a strong password bitwarden is recommended but not necesary to store them.
 > 
->if you dont have a Rasberry Pi and want to use another pc or laptop scroll down to the separate pc section written by me so not as nice as the stuff formatted by ai.
+>if you dont have a Rasberry Pi and want to use another pc or laptop scroll down to the separate pc section written by me so not as nice as the stuff formatted by ai. Also highly recommended to read the README first.
 
 ---
 
